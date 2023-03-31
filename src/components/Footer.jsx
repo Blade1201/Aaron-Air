@@ -33,32 +33,32 @@ const Footer = () => {
 
                 <div className="footerLinks" data-aos="fade-up" data-aos-duration="2500">
                     <span className="linkTitle"> Információ </span>
-                    <li><a href="/"> Kezdőlap </a> </li>
-                    <li><a href="/"> Felfedezés </a> </li>
-                    <li><a href="/"> Repülési állapot </a> </li>
-                    <li><a href="/"> Utazás </a> </li>
-                    <li><a href="/"> Bejelentkezés </a> </li>
-                    <li><a href="/"> Kezelje foglalásait </a> </li>
+                    <li><a href="#"> Kezdőlap </a> </li>
+                    <li><a href="#"> Felfedezés </a> </li>
+                    <li><a href="#"> Repülési állapot </a> </li>
+                    <li><a href="#"> Utazás </a> </li>
+                    <li><a href="#"> Bejelentkezés </a> </li>
+                    <li><a href="#"> Kezelje foglalásait </a> </li>
                 </div>
 
                 <div className="footerLinks" data-aos="fade-up" data-aos-duration="2500">
                     <span className="linkTitle"> Gyors útmutató </span>
-                    <li><a href="/"> GYIK </a> </li>
-                    <li><a href="/"> Hogyan </a> </li>
-                    <li><a href="/"> Tulajdonságok </a> </li>
-                    <li><a href="/"> Poggyász </a> </li>
-                    <li><a href="/"> Útvonal térkép </a> </li>
-                    <li><a href="/"> Közösségünk </a> </li>
+                    <li><a href="#"> GYIK </a> </li>
+                    <li><a href="#"> Hogyan </a> </li>
+                    <li><a href="#"> Tulajdonságok </a> </li>
+                    <li><a href="#"> Poggyász </a> </li>
+                    <li><a href="#"> Útvonal térkép </a> </li>
+                    <li><a href="#"> Közösségünk </a> </li>
                 </div>
 
                 <div className="footerLinks" data-aos="fade-up" data-aos-duration="2500">
                     <span className="linkTitle"> További információ </span>
-                    <li><a href="/"> Sofőr </a> </li>
-                    <li><a href="/"> Partnereink </a> </li>
-                    <li><a href="/"> Úticél </a> </li>
-                    <li><a href="/"> Karrier </a> </li>
-                    <li><a href="/"> Szállítás </a> </li>
-                    <li><a href="/"> Szabályzat </a> </li>
+                    <li><a href="#"> Sofőr </a> </li>
+                    <li><a href="#"> Partnereink </a> </li>
+                    <li><a href="#"> Úticél </a> </li>
+                    <li><a href="#"> Karrier </a> </li>
+                    <li><a href="#"> Szállítás </a> </li>
+                    <li><a href="#"> Szabályzat </a> </li>
                 </div>
             </div>
         </div>
