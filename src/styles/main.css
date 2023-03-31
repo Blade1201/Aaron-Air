@@ -296,7 +296,9 @@ h2 {
   width: 95%;
   border: none;
   outline: none;
-  background: transparent;
+  height: 25px;
+  background: var(--SecondaryColor);
+  border-radius: 5px;
 }
 .search .sectionContainer .searchInputs .singleInput .texts input::placeholder {
   font-size: 12px;
