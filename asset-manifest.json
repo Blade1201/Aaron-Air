@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Aaron-Air/static/css/main.2409f729.css",
+    "main.css": "/Aaron-Air/static/css/main.dc4fde46.css",
     "main.js": "/Aaron-Air/static/js/main.df263531.js",
     "static/media/video.mp4": "/Aaron-Air/static/media/video.eb565b3f5d0deee205b1.mp4",
     "static/media/dubai.jpg": "/Aaron-Air/static/media/dubai.742dca83b306e6950ef9.jpg",
@@ -15,11 +15,11 @@
     "static/media/travelersGrid.png": "/Aaron-Air/static/media/travelersGrid.ba82fc3839e2b02fe320.png",
     "static/media/aeroplane.png": "/Aaron-Air/static/media/aeroplane.4e1f4ce323b5d8ead6be.png",
     "index.html": "/Aaron-Air/index.html",
-    "main.2409f729.css.map": "/Aaron-Air/static/css/main.2409f729.css.map",
+    "main.dc4fde46.css.map": "/Aaron-Air/static/css/main.dc4fde46.css.map",
     "main.df263531.js.map": "/Aaron-Air/static/js/main.df263531.js.map"
   },
   "entrypoints": [
-    "static/css/main.2409f729.css",
+    "static/css/main.dc4fde46.css",
     "static/js/main.df263531.js"
   ]
 }
