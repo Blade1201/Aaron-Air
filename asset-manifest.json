@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Aaron-Air/static/css/main.2409f729.css",
+    "main.js": "/Aaron-Air/static/js/main.df263531.js",
+    "static/media/video.mp4": "/Aaron-Air/static/media/video.eb565b3f5d0deee205b1.mp4",
+    "static/media/dubai.jpg": "/Aaron-Air/static/media/dubai.742dca83b306e6950ef9.jpg",
+    "static/media/imageGrid.png": "/Aaron-Air/static/media/imageGrid.1ec47b40c44da7b85ddd.png",
+    "static/media/budapest.jpg": "/Aaron-Air/static/media/budapest.7184f33e5e2732df3fdc.jpg",
+    "static/media/budapestTraveler.jpg": "/Aaron-Air/static/media/budapestTraveler.c528fdba5ccc65363d0c.jpg",
+    "static/media/london.jpg": "/Aaron-Air/static/media/london.2589b1dcb336fddb9f5c.jpg",
+    "static/media/londonTraveler.jpg": "/Aaron-Air/static/media/londonTraveler.dd7c9e9b13c5899dd99d.jpg",
+    "static/media/parisTraveler.jpg": "/Aaron-Air/static/media/parisTraveler.f7d890aaeda039a500fe.jpg",
+    "static/media/paris.jpg": "/Aaron-Air/static/media/paris.c3e1e5c50f96c84b1f10.jpg",
+    "static/media/dubaiTraveler.jpg": "/Aaron-Air/static/media/dubaiTraveler.74fb1b56abc5522e0114.jpg",
+    "static/media/travelersGrid.png": "/Aaron-Air/static/media/travelersGrid.ba82fc3839e2b02fe320.png",
+    "static/media/aeroplane.png": "/Aaron-Air/static/media/aeroplane.4e1f4ce323b5d8ead6be.png",
+    "index.html": "/Aaron-Air/index.html",
+    "main.2409f729.css.map": "/Aaron-Air/static/css/main.2409f729.css.map",
+    "main.df263531.js.map": "/Aaron-Air/static/js/main.df263531.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2409f729.css",
+    "static/js/main.df263531.js"
+  ]
+}
