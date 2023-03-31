@@ -55,7 +55,7 @@ const Search = () => {
 
                         <div className="texts">
                             <h4> Utazók </h4>
-                            <input type="text" placeholder="Utasok hozzáadása"/>
+                            <input type="text" placeholder="Utasok száma"/>
                         </div>
                     </div>
 
